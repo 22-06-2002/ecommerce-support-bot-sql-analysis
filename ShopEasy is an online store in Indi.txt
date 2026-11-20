@@ -1,0 +1,30 @@
+ShopEasy is an online store in India.
+
+DELIVERY: Standard delivery takes 3-5 days. Express delivery takes 1-2 days for a Rs 99 fee. Delivery is free above Rs 499.
+RETURNS: Most items can be returned within 10 days. Electronics within 7 days. Innerwear and groceries cannot be returned.
+REFUNDS: Refund goes to the original payment method in 5-7 working days. Refund to ShopEasy wallet is instant.
+CANCELLATION: Free before the item ships. After shipping, refuse delivery or return the item.
+PAYMENTS: UPI, cards, net banking, and cash on delivery (up to Rs 5,000).
+DAMAGED OR WRONG ITEM: Report within 48 hours with a photo. We offer replacement or refund.
+ADDRESS CHANGE: Possible only before the item ships, from My Orders.
+SELLERS: Register with GST and bank details. Commission is 5-12 percent. Payout every 7 days.
+SUPPORT HOURS: Chat 24x7. Phone 9 AM to 9 PM.
+POLICY RULE: The assistant never approves refunds itself. It explains the policy and creates a support ticket if needed.				
+1	order_id	customer_name	     item	       status	         delivery_date
+2	SE1001	   	   Ravi           Wireless earphones   Shipped	           2026-11-24
+3	SE1002	           Priya	     Cotton kurta     Delivered            2026-11-15
+4	SE1003	           Arjun	Smart watch	     Out for delivery	    2026-11-21
+5	SE1004	           Sneha	Water bottle	         Placed             2026-11-27
+6	SE1005	           Karthik	Bluetooth speaker	Shipped	            2026-11-25
+7	SE1006	            Divya	Running shoes	       Delivered	    2026-11-12
+8	SE1007	            Imran	Phone case	        Placed	            2026-11-26
+9	SE1008	           Lakshmi	Mixer grinder	     Out for delivery	    2026-11-21
+10	SE1009	            Rahul	Backpack	         Shipped	    2026-11-23
+11	SE1010	           Anitha	Face wash	         Delivered	    2026-11-14
+12	SE1011	            Vikram	Laptop stand	           Placed	    2026-11-28
+13	SE1012	             Meena	Bedsheet set	          Shipped	    2026-11-24
+14	SE1013	            Suresh	Power bank	          Delivered	    2026-11-10
+15	SE1014	            Pooja	Yoga mat	     Out for delivery	    2026-11-21
+16	SE1015	          Naveen	Table lamp	          Placed	    2026-11-29
+
+     
